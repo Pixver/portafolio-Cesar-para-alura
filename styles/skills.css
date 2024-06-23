@@ -1,0 +1,38 @@
+.Skills{
+display: flex;
+flex-direction: column;
+margin: 0 20px 0 20px;
+
+}
+.titulo-skills{ 
+    padding: 100PX 0 100PX 0;}
+    
+.titulo-skills-contenedor{
+text-align: center;
+
+}
+
+.contenedor-skills{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+   gap: 25px 25px;
+   
+   
+   
+      
+}
+
+.skills-items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+.skills-items img{
+
+    width: 100px;
+    height:100px;
+}

@@ -1,0 +1,15 @@
+.footer{
+    display: flex;
+    align-content: center;
+   justify-content: center;
+    margin: 100px 0px 0 0;
+    font-weight: bold;
+    text-align: center;
+    background-image: linear-gradient(#f5f5f5 25%, lightblue) ;
+    height: 250px;
+    align-items: center;
+   
+}
+
+
+

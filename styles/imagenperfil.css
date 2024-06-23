@@ -1,0 +1,31 @@
+.imagenesperfil{ 
+
+    width: 480px;
+    height: 720px;
+    margin-top: 40px;
+    position: relative;
+}
+    
+ 
+.imagenesperfil img{ 
+    width: 120%;
+    height: 100%;
+   display: flex;
+   
+
+}
+
+.foto-perfil1{ 
+   
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 1;
+    
+}
+
+.foto-perfil1:hover {
+
+    opacity: 0;
+}
+

@@ -1,0 +1,18 @@
+.titulo-presentacion{
+
+    display: flex;
+    text-align: center;
+}
+.presentacion{
+display: flex;
+   margin: 0px 40px;
+   
+}
+
+.parrafo-presentacion{
+
+    text-align: justify;
+    margin: 20px;
+    
+}
+

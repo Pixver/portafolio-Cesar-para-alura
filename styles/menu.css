@@ -1,0 +1,21 @@
+.memu{ 
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+
+}
+
+@media (min-width: 768px) {
+
+
+    .memu{ 
+
+        display: none;
+        flex-direction: row;
+        justify-content: space-between;
+       
+    
+    }
+}
